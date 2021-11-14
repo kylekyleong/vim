@@ -1,6 +1,6 @@
 # vim
 
-Add number `N` before a command will execute the command `N` number of times.
+Add number `N` before any :command will execute the command `N` number of times.
 
 ## Command
 |command|description|
