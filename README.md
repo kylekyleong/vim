@@ -32,3 +32,4 @@ Add number `N` before command will execute the command `N` number of times.
 |`dd`|delete line and copy|
 |`p`|paste or paste bottom|
 |Shift + `p`|paste on top|
+
