@@ -72,5 +72,4 @@ Add number `N` before any command will execute the command `N` number of times.
 |`>>`|Indent left|
 |`<<`|Indent right|
 
-
 ![cheatsheet](./vi-vim-cheat-sheet.jpg)
